@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any projects you can think of
 - 📫 You may reach me at erikaglacson@gmail.com or LinkedIn: www.linkedin.com/in/erika-goto-lacson
-- 📝 You may also read my blogs at https://medium.com/@erikaglacson
+- 📝 You may also read my blogs at https://medium.com/@erikaglacson 
 
 <!---
 erikaglacson/erikaglacson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
